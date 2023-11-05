@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on Foxconn , I,m a test engineer . <br>I hold PMP certificate and have rich experience in project managment
+I'm working in Foxconn , I'm a test engineer . <br>I hold PMP certificate and have rich experience in project managment
 
 
 ## 🌐 Socials:
